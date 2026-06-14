@@ -8,7 +8,7 @@
   "server": {
     "ip": "animessmp.falix.gg",
     "port": 22675,
-    "version": "1.8.5"
+    "version": "1.8.8"
   },
   "position": {
     "enabled": true,
